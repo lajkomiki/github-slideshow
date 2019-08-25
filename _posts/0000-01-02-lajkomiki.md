@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to the second slide!"
 ---
-There is no spoon!
+I found  a spoon!
+But there is no fork! 
 Use the left arrow to go back!
